@@ -1,4 +1,4 @@
-# Sorting algorithm
+# Sorting algorithms
 This is my collection of sorting algorithm. The algorithms in my code are written in C++, you can use Cmake to build the project both windows or linux
 
 ## Installation with Cmake
@@ -25,14 +25,14 @@ Run the program with ./Sorting
 Enter the number of random integer:  how much big you want your random array
 
 ### Step 2:
-Press 1 for bubble sort
-Press 2 for selection sort
-Press 3 for insertion sort
-Press 4 for merge sort
-Press 5 for quick sort
-Press 6 for continuing sort
-Press 7 for benchmark
-Press -1 to exit
+Press 1 for bubble sort \
+Press 2 for selection sort \
+Press 3 for insertion sort \
+Press 4 for merge sort \
+Press 5 for quick sort \
+Press 6 for continuing sort \
+Press 7 for benchmark \
+Press -1 to exit 
 
 Enjoy the results
 
